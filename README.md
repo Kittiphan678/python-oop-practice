@@ -5,7 +5,7 @@
 ## 📚 หัวข้อที่ฝึกฝน (Topics Covered)
 - [x] **Basics:** Class, Object, Attributes, Methods, Constructor (`__init__`)
 - [x] **Encapsulation:** Private Attributes (`__var`), Getter & Setter
-- [ ] **Inheritance:** Subclasses, `super()`
+- [x] **Inheritance:** Subclasses, `super()`
 - [ ] **Polymorphism:** Method Overriding
 - [ ] **Abstraction:** Abstract Base Classes (`abc`)
 
